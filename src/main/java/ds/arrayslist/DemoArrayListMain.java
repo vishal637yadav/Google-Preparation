@@ -10,5 +10,9 @@ public class DemoArrayListMain {
         list.add("Me added");
         System.out.println("list :->"+list);
 
+        System.out.println("list.contains(\"Me added\") ::"+list.contains("Me added"));
+
     }
+
+
 }
